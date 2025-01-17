@@ -1,0 +1,15 @@
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\bin\Debug\net8.0\Lab06_Exercise09.exe
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\bin\Debug\net8.0\Lab06_Exercise09.deps.json
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\bin\Debug\net8.0\Lab06_Exercise09.runtimeconfig.json
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\bin\Debug\net8.0\Lab06_Exercise09.dll
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\bin\Debug\net8.0\Lab06_Exercise09.pdb
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\Lab06_Exercise09.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\Lab06_Exercise09.AssemblyInfoInputs.cache
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\Lab06_Exercise09.AssemblyInfo.cs
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\Lab06_Exercise09.csproj.CoreCompileInputs.cache
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\Lab06_Exercise09.sourcelink.json
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\Lab06_Exercise09.dll
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\refint\Lab06_Exercise09.dll
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\Lab06_Exercise09.pdb
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\Lab06_Exercise09.genruntimeconfig.cache
+D:\github\Lab06-CSharp-Strings\Lab06_Exercise09\obj\Debug\net8.0\ref\Lab06_Exercise09.dll
